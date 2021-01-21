@@ -1,0 +1,11 @@
+{
+"kind": "kind",
+	"acl": {
+		"viewers": [
+			"viewer.com"
+		],
+		"owners": [
+			"owner.com"
+		]
+	}
+}
